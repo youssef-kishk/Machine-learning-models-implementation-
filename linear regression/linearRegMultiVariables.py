@@ -62,10 +62,10 @@ def main(alpha,iterations):
         
     #apply gradient descent
     theta,cost_values=gradient_descent(x,y,theta,alpha,iterations,num_of_rows)  
-    thetas_norma_eq = normal_equation(x,y)
+    #thetas_norma_eq = normal_equation(x,y)
     
     #best fit line function
-    line_function = theta[0,0]+ (theta*x)
+    line_function = theta[0,0]+ (theta[0,1]*x)
     
     fig, ax = plt.subplots(figsize=(5,5))
     ax.plot(x, line_function,'r')
