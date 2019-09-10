@@ -3,3 +3,6 @@
 
 ## **Linear regression**  
 Linear regression complete implemetation in python using **gradient descent** or **normal equation** for calculating the variant theta's values of the decreasing cost function with a goal of finding the best fit line for the given data points either for single variable or multi variables data.
+
+
+## **Single classification** 
