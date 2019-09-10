@@ -6,3 +6,4 @@ Linear regression complete implemetation in python using **gradient descent** or
 
 
 ## **Single classification** 
+Single variable classification (0 or 1) in python using **sigmoid function**
