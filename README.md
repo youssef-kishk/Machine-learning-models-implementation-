@@ -11,4 +11,4 @@ Single variable classification (0 or 1) in python using **sigmoid function**
 
 
 ## **Neural nets** 
-A complete puthon implementation for neural networks using sigmoid function and by applying forward propagation and backward propagation to decrease the cost function to its minimal values so the neural net efficiency becomes as good as possible.
+A complete python implementation for neural networks using sigmoid function and by applying forward propagation and backward propagation to decrease the cost function to its minimal values so the neural net efficiency becomes as good as possible.
