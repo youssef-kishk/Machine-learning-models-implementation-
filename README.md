@@ -20,5 +20,5 @@ svm for spam mails classification
 
 
 
-## **K-Means clustering **
+## **K-Means clustering**
 Full implementation in python for the unsupervised learning K-means clustring.
