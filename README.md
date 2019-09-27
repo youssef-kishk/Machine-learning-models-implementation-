@@ -25,3 +25,8 @@ Full implementation in python for unsupervised learning K-means clustring algori
 
 
 ## **PCA**
+
+
+
+## **Face recongnition using LDA**
+https://github.com/youssef-kishk/Face-Recognition-using-LDA
