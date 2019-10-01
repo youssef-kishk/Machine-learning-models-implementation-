@@ -16,7 +16,7 @@ A complete python implementation for neural networks using sigmoid function and 
 
 
 ## **SVM**
-svm for spam mails classification
+svm for spam mails classification (using sklearn)
 
 
 
